@@ -1,0 +1,15 @@
+{
+  "name": "bmoney-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bil Herron <bil@bilherron.com>",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/bilherron/bmoney-api.git"},
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
